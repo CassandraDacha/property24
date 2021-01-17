@@ -8,10 +8,10 @@ const Details1 = () => {
           <h4>2 Bedroom House for Sale in Gardens</h4>
           </div>
     <div class="carousel">
-    <a class="carousel-item" href="#one"><img src="https://images.prop24.com/214590932/Crop320x213"/></a>
-    <a class="carousel-item" href="#two"><img src="https://images.prop24.com/214590938/Crop320x213"/></a>
-    <a class="carousel-item" href="#three"><img src="https://images.prop24.com/214590937/Crop320x213"/></a>
-    <a class="carousel-item" href="#four"><img src="https://images.prop24.com/214590934/Crop320x213"/></a>
+    <a class="carousel-item" href="#one"><img src="https://images.prop24.com/226778113/Crop320x213"/></a>
+    <a class="carousel-item" href="#two"><img src="https://images.prop24.com/226778113/Crop320x213"/></a>
+    <a class="carousel-item" href="#three"><img src="https://images.prop24.com/226778113/Crop320x213"/></a>
+    <a class="carousel-item" href="#four"><img src="https://images.prop24.com/226778113/Crop320x213"/></a>
   </div>
   <h5><b>Description</b></h5>
   <p>A home with Pizzazz
