@@ -31,7 +31,7 @@ class App extends Component {
       <Route path = '/commercial-property' component={Commercial}/>
       <Route path = '/private-listing/sell-my-property' component={ListPrivately}/>
       <Route path = '/one' component={Details}/>
-      <Route path = '/two' component={Details1}/>
+       <Route path = '/three' component={Details2}/>
       <Route path = '/three' component={Details2}/>
       </Switch>
       </div>
