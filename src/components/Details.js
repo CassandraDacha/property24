@@ -10,9 +10,9 @@ const Details = () => {
           </div>
     <div class="carousel">
     <a class="carousel-item" href="#one"><img src="https://images.prop24.com/219296101/Crop320x213"/></a>
-    <a class="carousel-item" href="#two"><img src="https://images.prop24.com/219296105/Crop320x213"/></a>
-    <a class="carousel-item" href="#three"><img src="https://images.prop24.com/219296111/Crop320x213"/></a>
-    <a class="carousel-item" href="#four"><img src="https://images.prop24.com/219296113/Crop320x213"/></a>
+    <a class="carousel-item" href="#two"><img src="https://images.prop24.com/219296101/Crop320x213"/></a>
+    <a class="carousel-item" href="#three"><img src="https://images.prop24.com/219296101/Crop320x213"/></a>
+    <a class="carousel-item" href="#four"><img src="https://images.prop24.com/219296101/Crop320x213"/></a>
   </div>
   <h5><b>Description</b></h5>
   <p>Modern family!
